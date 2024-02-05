@@ -24,8 +24,10 @@ Objectif du projet : créer un réseau social pour partager des photos au sein d
 ) ![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) ![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![image](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## Mes missions pendant ce projet   
-⚠️A COMPLETER INDIVIDUELLEMENT 
-
+- Connecter la base de données
+- Ajouter les fonctionnalités pour personnaliser les profils
+- Ecrire les tests unitaires 
+  
 ## Configuration
 
 #### [Windows] Pré-requis : installer WSL 2
